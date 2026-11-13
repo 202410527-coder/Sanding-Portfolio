@@ -9,7 +9,7 @@ const TRANSLATIONS = {
     dark: "Dark",
     light: "Light",
     hello: "Hello, I’m",
-    intro: "I turn ideas into clean, simple and friendly websites.",
+    intro: "Never stop learning",
     talk: "Let’s talk",
     see: "See services",
     cv: "Download CV",
