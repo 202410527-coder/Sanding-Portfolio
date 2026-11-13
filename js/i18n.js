@@ -15,8 +15,7 @@ const TRANSLATIONS = {
     cv: "Download CV",
     avail: "Available for work",
     aboutP1:
-      "I’m a student who loves design and code. I enjoy planning how a website should look and feel, then building it myself with HTML, CSS, JavaScript and React.",
-    aboutP2: "My goal is simple: make things that look good and are easy for everyone to use.",
+      "I am Neon M. Sanding, a motivated Bachelor of Science in Information Technology (BSIT) student with a strong interest in technology and digital media. I have basic knowledge in graphic design and video editing and am eager to learn and improve my skills further. I also have experience in data entry and data encoding, demonstrating my attention to detail and accuracy. With a passion for creativity and innovation, I aim to develop my expertise in IT and multimedia, contribute to meaningful projects, and continuously enhance both my technical and creative abilities through collaboration and hands-on experience.",
     learning: "Currently learning",
     stTools: "Tools",
     stProjects: "Projects",
