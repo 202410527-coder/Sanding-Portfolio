@@ -11,18 +11,7 @@ const LINKS = {
 };
 
 const OPEN_TO_WORK = true; // true shows the green "Available for work" badge
-const TIMELINE = [
-  {
-    when: "2024 – now",
-    title: "BSIT Student",
-    note: "Name of your school or university",
-  },
-  {
-    when: "2018 – 2024",
-    title: "Senior High School",
-    note: "Name of your school, strand or track",
-  },
-]; // example: ["Figma", "Next.js"] (shows "Currently learning" when filled)
+const TIMELINE = []; // example: ["Figma", "Next.js"] (shows "Currently learning" when filled)
 
 // Certificates: { title: "Name", note: "Issuer, year", img: "assets/cert1.jpg" }
 const CERTS = [
