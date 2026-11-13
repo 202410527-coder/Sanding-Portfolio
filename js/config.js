@@ -4,9 +4,9 @@ const API = { contact: "/api/contact", cv: "/api/cv" };
 
 const LINKS = {
   cv: "assets/neon-sanding-cv.pdf",
-  instagram: "#",
-  facebook: "#",
-  tiktok: "#",
+  instagram: "https://www.instagram.com/__chocomuchoo/",
+  facebook: "https://www.facebook.com/neon.blanco0",
+  tiktok: "https://www.tiktok.com/@shitaaakariii",
   gmail: "mailto:sandingneon055@gmail.com",
 };
 
@@ -47,7 +47,16 @@ const PROJECTS = [
 // Testimonials: { quote: "Nice to work with!", name: "Person, role" }
 const TESTIMONIALS = [];
 // Timeline: { when: "2024 – now", title: "BSIT Student", note: "School name" }
-const TIMELINE = [];
+const TIMELINE = [ 
+  {when: "2024 - now", 
+   title: "Bachelor Science of Information Technology (BSIT) Student", 
+   note: "Gordon College (GC)
+  },
+  {when: "2018 - 2024",
+   title: "Senior High School (SHS)",
+   note: "St. Joseph College, Inc. (SJC), Communication, and Technology (ICT) Student"
+  },
+];
 
 // new Skill(symbol, name, key color, text color, computer key, level 1-3)
 const SKILLS = [
