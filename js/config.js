@@ -11,7 +11,18 @@ const LINKS = {
 };
 
 const OPEN_TO_WORK = true; // true shows the green "Available for work" badge
-const LEARNING = []; // example: ["Figma", "Next.js"] (shows "Currently learning" when filled)
+const TIMELINE = [
+  {
+    when: "Currently Studying",
+    title: "Bachelor Science of Information Technology(BSIT) Student",
+    note: "Gordon College (GC)",
+  },
+  {
+    when: "2018 – 2024",
+    title: "Senior High School (SHS)",
+    note: "St. Joseph College, Olongapo Inc., Information, Communication, and technology (ICT)",
+  },
+]; // example: ["Figma", "Next.js"] (shows "Currently learning" when filled)
 
 // Certificates: { title: "Name", note: "Issuer, year", img: "assets/cert1.jpg" }
 const CERTS = [
