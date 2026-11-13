@@ -4,9 +4,9 @@ const API = { contact: "/api/contact", cv: "/api/cv" };
 
 const LINKS = {
   cv: "assets/neon-sanding-cv.pdf",
-  instagram: "#",
-  facebook: "#",
-  tiktok: "#",
+  instagram: "https://www.instagram.com/__chocomuchoo/",
+  facebook: "https://www.facebook.com/neon.blanco0",
+  tiktok: "https://www.tiktok.com/@shitaaakariii",
   gmail: "mailto:sandingneon055@gmail.com",
 };
 
