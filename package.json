@@ -1,0 +1,8 @@
+{
+  "name": "neon-portfolio",
+  "version": "2.0.0",
+  "description": "Portfolio website of Neon M. Sanding",
+  "main": "server/server.js",
+  "scripts": { "start": "node server/server.js" },
+  "dependencies": { "express": "^4.21.2", "nodemailer": "^6.9.16" }
+}
