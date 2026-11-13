@@ -50,11 +50,11 @@ const TESTIMONIALS = [];
 const TIMELINE = [ 
   {when: "2024 - now", 
    title: "Bachelor Science of Information Technology (BSIT) Student", 
-   note: "Gordon College (GC)
+   note: "Gordon College (GC),
   },
   {when: "2018 - 2024",
    title: "Senior High School (SHS)",
-   note: "St. Joseph College, Inc. (SJC), Communication, and Technology (ICT) Student"
+   note: "St. Joseph College, Inc. (SJC), Communication, and Technology (ICT) Student",
   },
 ];
 
