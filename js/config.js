@@ -10,7 +10,7 @@ const LINKS = {
   gmail: "mailto:sandingneon055@gmail.com",
 };
 
-const OPEN_TO_WORK = true; // true shows the green "Available for work" badge
+const OPEN_TO_WORK = false; // true shows the green "Available for work" badge
 const LEARNING = []; // example: ["Figma", "Next.js"] (shows "Currently learning" when filled)
 
 // Certificates: { title: "Name", note: "Issuer, year", img: "assets/cert1.jpg" }
