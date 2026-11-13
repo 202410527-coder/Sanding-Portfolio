@@ -57,8 +57,6 @@ const PROJECTS = [
 ];
 // Testimonials: { quote: "Nice to work with!", name: "Person, role" }
 const TESTIMONIALS = [];
-// Timeline: { when: "2024 – now", title: "BSIT Student", note: "School name" }
-const TIMELINE = [];
 
 // new Skill(symbol, name, key color, text color, computer key, level 1-3)
 const SKILLS = [
