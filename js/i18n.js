@@ -21,7 +21,7 @@ const TRANSLATIONS = {
     stProjects: "Projects",
     stCerts: "Certificates",
     timeline: "Education",
-    tlPh: "Gordon College (GC) - Olongapo City Bachelor of Scient Information Technology (BSIT)",
+    tlPh: "Add your school or role here",
     tlPh2: "The details will show here.",
     certs: "Certificates",
     projects: "Projects",
