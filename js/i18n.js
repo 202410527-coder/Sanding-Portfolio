@@ -37,7 +37,7 @@ const TRANSLATIONS = {
     dCert: "The description will show up here once this certificate is added.",
     dProj: "The description will show up here once this project is added.",
     tests: "Kind words",
-    testPh: "Add your first quote from a classmate, teacher or client.",
+    testPh: "“Kung hindi ka natatalo, hindi ka na gumagalaw. Look at you, you're still here. So what's it going to be? Do you fight, or do you quit?” — Justice Hernandez",
     skIntro: "Press a key to see what I do with each tool. You can also use your real keyboard.",
     skTip: "Tip: press any key above",
     skWork: "Let’s work together ↵",
