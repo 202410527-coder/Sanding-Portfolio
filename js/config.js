@@ -30,6 +30,16 @@ const CERTS = [
     note: "Issued by Cisco Networking Academy, 2026",
     img: "assets/cert3.jpg",
   },
+  {
+    title: "Big Data Fundamentals",
+    note: "Issued by DICT Digital Workforce Hub, 2026",
+    img: "assets/cert4.jpg",
+  },
+  {
+    title: "Analytics for the Public Sector",
+    note: "Issued by DICT Digital Workforce Hub, 2026",
+    img: "assets/cert5.jpg",
+  },
 ];
 // Projects: { title, note, story, img: "assets/p1.jpg", tags: ["UI Design"], link: "https://..." }
 // link = the website address people visit when they click "Visit website" (leave out if none)
